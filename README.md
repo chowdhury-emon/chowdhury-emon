@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/chowdhury-emon/">
     <img src="https://img.shields.io/badge/🔗 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn" />
   </a>
-  <a href="https://codepen.io/chowdhury-emon"> <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=googlechrome&logoColor=white" height="38" alt="CodePen" /> </a>
+  <a href="https://codepen.io/chowdhury-emon"> <img src="https://img.shields.io/badge/🧊 CodePen-000000?style=for-the-badge" height="38" alt="CodePen" /> </a>
   <a href="mailto:emonc.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" alt="Email" />
   </a>
