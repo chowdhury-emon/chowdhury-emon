@@ -28,6 +28,7 @@
 
 ## <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="100" alt="Coding" /> About Me
 
+
 I'm a Computer Science & Engineering graduate and Frontend Developer based in Bangladesh, passionate about creating high-performance, polished web applications.
 
 * 🔭 **Primary Focus:** Angular, React, Next.js and modern component architectures.
@@ -36,7 +37,7 @@ I'm a Computer Science & Engineering graduate and Frontend Developer based in Ba
 
 <br />
 
-## 🛠️ Tech Stack & Skills
+## <img src="https://cdn-icons-gif.flaticon.com/17122/17122766.gif" width="30" alt="Tools" /> Tech Stack & Skills
 
 <div align="center">
 
@@ -82,7 +83,7 @@ I'm a Computer Science & Engineering graduate and Frontend Developer based in Ba
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Wave Divider" />
 
-## 📊 GitHub Analytics
+## <img src="https://cdn-icons-gif.flaticon.com/15401/15401425.gif" width="30" alt="Tools" /> GitHub Analytics
 
 <div align="center">
 
