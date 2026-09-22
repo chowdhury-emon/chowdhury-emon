@@ -1,148 +1,69 @@
 <div align="center">
 
-# Emon Chowdhury
+<!-- Header Animated Typing SVG - Purple Gradient Accent -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&height=50&lines=MD.+EMON+CHOWDHURY;Frontend+%26+Full-Stack+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" />
+</a>
 
-**Frontend Developer**
+<p align="center">
+  <a href="[LINKEDIN_URL]">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="[PORTFOLIO_URL]">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-Angular · React · Next.js · TypeScript
+<!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chowdhury-emon&style=for-the-badge&color=8a2be2&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Wave Divider" />
+
+## ⚡ About Me
+
+I'm a **Computer Science & Engineering** graduate and Frontend Developer based in Bangladesh, passionate about creating high-performance, polished web applications.
+
+* 🔭 **Primary Focus:** Angular & modern component architectures.
+* 🚀 **Currently Expanding:** Full-stack development with **React, Next.js, Node.js, and Express** via *Programming Hero's AI-Driven Full Stack Engineering Bootcamp (Batch 14)*.
+* 💡 **Philosophy:** Crafting elegant interfaces, mastering core internals, and turning complex ideas into functional products.
 
 <br />
 
-[GitHub](https://github.com/chowdhury-emon) ·
-[LinkedIn](YOUR_LINKEDIN_URL) ·
-[Portfolio](YOUR_PORTFOLIO_URL)
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+<!-- Tech Stack Icons -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,tailwind,nodejs,express,mongodb,firebase,cpp,git,github,vscode,figma,postman&perline=9&theme=dark" alt="My Tech Stack" />
+</a>
 
 </div>
 
 <br />
 
-## About
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Wave Divider" />
 
-Computer Science & Engineering graduate based in Bangladesh.
-
-I build web applications with a focus on frontend architecture, clean interfaces, and maintainable code.
-
-Currently expanding from Angular into the React and full-stack ecosystem through **Programming Hero — AI-Driven Full Stack Engineering Bootcamp, Batch 14**.
-
-<br />
-
-## Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Frontend**
-
-Angular
-React
-Next.js
-TypeScript
-JavaScript
-HTML / CSS
-Tailwind CSS
-
-</td>
-<td valign="top" width="50%">
-
-**Backend & Services**
-
-Node.js
-Express.js
-MongoDB
-Firebase
-REST APIs
-Authentication
-
-</td>
-</tr>
-</table>
-
-<br />
-
-## Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### StockFlow
-
-Inventory & sales management application.
-
-`Next.js` `TypeScript` `Firebase`
-
-[Repository →](https://github.com/chowdhury-emon)
-
-</td>
-
-<td width="50%" valign="top">
-
-### DevStack
-
-Frontend project exploring modern component-based UI development.
-
-`React` `TypeScript`
-
-[Repository →](https://github.com/chowdhury-emon)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### DevConf
-
-Conference platform built around responsive UI and reusable components.
-
-`React` `TypeScript`
-
-[Repository →](https://github.com/chowdhury-emon)
-
-</td>
-
-<td width="50%" valign="top">
-
-### More coming soon
-
-Currently building and experimenting with full-stack applications.
-
-`Node.js` `Express` `MongoDB`
-
-</td>
-</tr>
-</table>
-
-<br />
-
-## Currently working with
-
-```text
-Angular          ████████████████████
-React            ███████████████░░░░░
-Next.js          ███████████████░░░░░
-TypeScript       ███████████████░░░░░
-Node.js          ██████████░░░░░░░░░░
-MongoDB          ██████████░░░░░░░░░░
-```
-
-<br />
-
-## GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chowdhury-emon&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
 
-<img src="https://streak-stats.demolab.com?user=chowdhury-emon&hide_border=true&theme=transparent" height="165" />
+
+<!-- Streak Stats - Transparent Background with Neon Purple Accents -->
+<img src="https://streak-stats.demolab.com?user=chowdhury-emon&hide_border=true&theme=transparent&ring=BD93F9&fire=BD93F9&currStreakLabel=BD93F9&sideLabels=A9B1D6&dates=A9B1D6" alt="GitHub Streak" />
 
 </div>
 
 <br />
 
 <div align="center">
-
-<sub>Building software, learning continuously.</sub>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=100&section=footer" width="100%" alt="Footer Animation" />
 </div>
