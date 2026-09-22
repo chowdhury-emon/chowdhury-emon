@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4B5563&height=100&section=header" width="100%" alt="Header Wave Animation" />
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=D1D5DB&center=true&vCenter=true&width=600&height=50&lines=MD.+EMON+CHOWDHURY;Frontend+%26+Full-Stack+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" />
 </a>
