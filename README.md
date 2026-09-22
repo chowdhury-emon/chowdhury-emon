@@ -1,37 +1,37 @@
 <div align="center">
 
-<!-- Header Animated Typing SVG - Purple Gradient Accent -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4B5563&height=100&section=header" width="100%" alt="Header Wave Animation" />
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&height=50&lines=MD.+EMON+CHOWDHURY;Frontend+%26+Full-Stack+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=D1D5DB&center=true&vCenter=true&width=600&height=50&lines=MD.+EMON+CHOWDHURY;Frontend+%26+Full-Stack+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <a href="[LINKEDIN_URL]">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn" />
   </a>
   <a href="[PORTFOLIO_URL]">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" height="38" alt="Portfolio" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" alt="Email" />
   </a>
 </p>
 
-<!-- Profile Views Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chowdhury-emon&style=for-the-badge&color=8a2be2&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=chowdhury-emon&style=for-the-badge&color=006AFF&label=PROFILE+VIEWS" height="35" alt="Profile views"/>
 </p>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Wave Divider" />
 
-## ⚡ About Me
+## <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="100" alt="Coding" /> About Me
 
-I'm a **Computer Science & Engineering** graduate and Frontend Developer based in Bangladesh, passionate about creating high-performance, polished web applications.
+I'm a Computer Science & Engineering graduate and Frontend Developer based in Bangladesh, passionate about creating high-performance, polished web applications.
 
-* 🔭 **Primary Focus:** Angular & modern component architectures.
-* 🚀 **Currently Expanding:** Full-stack development with **React, Next.js, Node.js, and Express** via *Programming Hero's AI-Driven Full Stack Engineering Bootcamp (Batch 14)*.
+* 🔭 **Primary Focus:** Angular, React, Next.js and modern component architectures.
+* 🚀 **Currently Expanding:** Full-stack development with *React, Next.js, Node.js, and Express*.
 * 💡 **Philosophy:** Crafting elegant interfaces, mastering core internals, and turning complex ideas into functional products.
 
 <br />
@@ -40,10 +40,41 @@ I'm a **Computer Science & Engineering** graduate and Frontend Developer based i
 
 <div align="center">
 
-<!-- Tech Stack Icons -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,tailwind,nodejs,express,mongodb,firebase,cpp,git,github,vscode,figma,postman&perline=9&theme=dark" alt="My Tech Stack" />
-</a>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="38" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" height="38" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="38" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="38" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="38" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="38" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="38" alt="Next.js" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="38" alt="C++" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="38" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="38" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/daisyUI-5A0E2D?style=for-the-badge&logo=daisyui&logoColor=white" height="38" alt="daisyUI" />
+  <img src="https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&logo=primeng&logoColor=white" height="38" alt="PrimeNG" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="38" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="38" alt="Express" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="38" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="38" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="38" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="38" alt="GitHub" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="38" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="38" alt="Postman" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="38" alt="Figma" />
+</p>
 
 </div>
 
@@ -55,15 +86,12 @@ I'm a **Computer Science & Engineering** graduate and Frontend Developer based i
 
 <div align="center">
 
-
-
-<!-- Streak Stats - Transparent Background with Neon Purple Accents -->
-<img src="https://streak-stats.demolab.com?user=chowdhury-emon&hide_border=true&theme=transparent&ring=BD93F9&fire=BD93F9&currStreakLabel=BD93F9&sideLabels=A9B1D6&dates=A9B1D6" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=chowdhury-emon&hide_border=true&theme=transparent&ring=9CA3AF&fire=9CA3AF&currStreakLabel=9CA3AF&sideLabels=D1D5DB&dates=D1D5DB" alt="GitHub Streak" />
 
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=100&section=footer" width="100%" alt="Footer Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B5563&height=100&section=footer" width="100%" alt="Footer Animation" />
 </div>
