@@ -27,9 +27,9 @@
 
 I'm a Computer Science & Engineering graduate and Frontend Developer based in Bangladesh, passionate about creating high-performance, polished web applications.
 
-* 🔭 **Primary Focus:** Angular, React, Next.js and modern component architectures.
-* 🚀 **Currently Expanding:** Full-stack development with *React, Next.js, Node.js, and Express*.
-* 💡 **Philosophy:** Crafting elegant interfaces, mastering core internals, and turning complex ideas into functional products.
+🔭 **Primary Focus:** Angular, React, Next.js and modern component architectures. <br/>
+🚀 **Currently Expanding:** Full-stack development with *React, Next.js, Node.js, Express and MongoDB*. <br/>
+💡 **Philosophy:** Crafting modern and elegant interfaces, mastering core internals, and turning complex ideas into functional products.
 
 <br />
 
