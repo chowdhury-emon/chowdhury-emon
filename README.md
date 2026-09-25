@@ -25,7 +25,8 @@
 ## <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="100" alt="Coding" /> About Me
 
 
-I'm a Computer Science & Engineering graduate and Frontend Developer based in Bangladesh, passionate about creating high-performance, polished web applications.
+
+Frontend Developer expanding into Full-Stack development, based in Bangladesh, CSE graduate and heavily passionate about modern web technologies. I focus on building fast, modern and polished user experiences.
 
 🔭 **Primary Focus:** Angular, React, Next.js and modern component architectures. <br/>
 🚀 **Currently Expanding:** Full-stack development with *React, Next.js, Node.js, Express and MongoDB*. <br/>
