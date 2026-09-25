@@ -26,7 +26,7 @@
 
 
 
-Frontend Developer expanding into Full-Stack development, based in Bangladesh, CSE graduate and heavily passionate about modern web technologies. I focus on building fast, modern and polished user experiences.
+Frontend Developer expanding into Full-Stack development, based in Bangladesh, CSE graduate and heavily passionate about modern web technologies. I love building fast, modern and polished user experiences.
 
 🔭 **Primary Focus:** Angular, React, Next.js and modern component architectures. <br/>
 🚀 **Currently Expanding:** Full-stack development with *React, Next.js, Node.js, Express and MongoDB*. <br/>
