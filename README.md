@@ -27,7 +27,12 @@
 
 Frontend Developer expanding into Full-Stack development, and a Computer Science and Engineering graduate dedicated to mastering modern web architecture and technologies. I love building fast, modern and polished user experiences.
 
-🔭 **Primary Focus:** Angular, React, Next.js and modern component architectures. <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Wave Divider" />
+
+
+
+
+🔭 **Primary Focus:** *Angular, React, Next.js* and modern component architectures. <br/>
 🚀 **Currently Expanding:** Backend and Full-stack development with *Node.js, Express and MongoDB*. <br/>
 💡 **Philosophy:** Crafting modern and elegant interfaces, mastering core internals, and turning complex ideas into functional products.
 
